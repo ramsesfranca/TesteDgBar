@@ -1,4 +1,4 @@
-# Minha Aplicação - Ramsés França
+# Bar do DG - Ramsés França
 
 # Descrição da solução
 Foram desenvolvidas 1 solutions (.sln) e dois projetos (MinhaAplicacao_API - projeto da API) e (MinhaAplicacao_Cliente - projeto cliente/front-end) para demonstrar o devido isolamento entre a API e o front-end.
@@ -44,6 +44,4 @@ Seguem alguns itens de melhoria:
 - O acesso à aplicação só poderá ser realizado por um usuário pré-existente via autenticação **basic**.
 - Exibir notificações das validações tanto de tela (DataAnnotations) como as de negócio. 
 - Implementar teste de integração da API em .NET e garantir pelo menos 80% de cobertura de código.
-- Fornecer projeto no SOAPUI ou no Postman com exemplos de request para cada endpoint implementado.
-- Implementar utilizando MongoDB ou outro banco de dados NoSQL.
-- A aplicação rodando em algum ambiente em nuvem
+- Código da Promoções
